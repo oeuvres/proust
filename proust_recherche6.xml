@@ -6,7 +6,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>À la recherche du temps perdu</title>
+        <title>Albertine disparue — À la recherche du temps perdu</title>
         <author>Proust, Marcel</author>
       </titleStmt>
       <editionStmt/>
@@ -22,7 +22,7 @@
     <profileDesc>
       <creation/>
       <langUsage>
-        <language ident=""/>
+        <language ident="fr"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
